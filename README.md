@@ -11,7 +11,7 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile](./screenshots/mobile.jpg)
-![Desktop](./screenshots/desktop.jpg.jpg)
+![Desktop](./screenshots/desktop.jpg)
 
 ### Links
 

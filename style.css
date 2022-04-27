@@ -28,6 +28,7 @@ background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
 .container {
 	overflow: hidden;
 	margin: 0 1.5rem;
+	padding: 0 0 4rem 0;
 }
 .card {
 	display: flex;
@@ -35,6 +36,7 @@ background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
 	margin: 43vw 0 0 0;
 	background-color: #fff;
 	border-radius: 2rem;
+	box-shadow: 0 25px 20px -5px rgb(0 0 0 / 30%);
 }
 .card__image {
 	height: 32vw;
