@@ -11,10 +11,11 @@ Users should be able to:
 ### Screenshot
 
 ![Mobile](./screenshots/mobile.jpg)
+![Desktop](./screenshots/desktop.jpg.jpg)
 
 ### Links
 
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: [Click](https://evgiss.github.io/FAQ-accordion-card/)
 
 ## My process
 
