@@ -33,4 +33,4 @@ While working with this layout, I learned how to make spoilers using a java scri
 
 ## Author
 
-- Frontend Mentor - [@Evgi](https://www.frontendmentor.io/profile/EugiSs)
+- Frontend Mentor - [@Eugi](https://www.frontendmentor.io/profile/EugiSs)
