@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click](https://evgiss.github.io/FAQ-accordion-card/)
+- Live Site URL: [Click](https://eugiss.github.io/FAQ-accordion-card/)
 
 ## My process
 
